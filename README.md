@@ -1,14 +1,13 @@
-# Challenge02-Create a Portfolio
+# Create a personal Portfolio
 
 ## Create a professional portfolio given the instructions in challenge 2
 
 In this weeks challenge I will build and deploy personal porfolio with no starter code.
 
-- Combined/Consolodated the CSS code to make navigation and changes easier.
-- Added sementic elements by reclassifying some of the elements.
-- Added alt attributes to some image elements.
+- Created the html/CSS code to make navigation and changes easier.
+- Added sementic elements.
+- Added alt attributes to all image elements.
 - Added multiple comment messages to CSS styling.
-- All updates were accomplished without changing mockup provided in instructions. 
 
 Learned to meticulously go through source code and made the necessary changes to prevent future issues.
 
