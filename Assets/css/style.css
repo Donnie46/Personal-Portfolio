@@ -1,0 +1,49 @@
+
+
+header {
+    position: fixed;
+    background: rgb(3, 19, 37);
+    color: antiquewhite;
+    padding: 2%; 
+    width: 18%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+}
+
+.image {
+    position:relative;
+    margin: auto;
+    width: 96%;
+    border-radius: 50%;
+    border: 5px solid gray;
+}
+
+.bg, .section {
+    margin-left: 25%;   
+    height: 520px;
+}
+
+#link {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 12px;
+    height: 200px
+}
+
+a {
+    color:lightgray;
+    text-decoration: none;
+    margin-left: 120%;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+    
