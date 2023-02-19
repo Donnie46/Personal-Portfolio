@@ -9,7 +9,10 @@ header {
     height: 100%;
     top: 0%;
     left: 0%;
+    text-align: center;
 }
+
+
 
 .image {
     position:relative;
@@ -20,11 +23,13 @@ header {
 }
 
 .bg, .section {
-    margin-left: 25%;   
-    height: 520px;
+    margin-left: 44%; 
+    margin-right: auto;  
+    height: 420px;
+    background-color: aqua; 
 }
 
-#link {
+#links {
     margin-top: 100px;
     display: flex;
     flex-direction: column;
@@ -41,9 +46,31 @@ a {
 
 .name {
     display: flex;
-    justify-content: center;
-    
-
+    justify-content: center; 
 }
 
-    
+h3 {
+    font-family: font-family: Georgia, serif;
+    background: ;
+    border: 2px solid gray;
+    border-radius: 0%
+}   
+
+.fa {
+    margin-left: 0%;
+}
+
+.backdrop {
+    height: 830px;
+    width: 1220px;
+    margin-top: 0px;
+    margin-left: 44%;
+    margin-right: 100%;
+    position:static;
+}
+
+#front {
+    margin-left: 22%;
+    display: flex;
+    align-items: flex-start;
+}
