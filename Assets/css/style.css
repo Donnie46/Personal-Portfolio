@@ -87,10 +87,23 @@ h3 {
 
 .frontname {
     text-align:end;
-    padding-right: 100px;
+    padding-right: 200px;
+    margin-top: 150px;
+    color: antiquewhite;
+    height: 30px;
 }
 
 .social {
     display: flex;
     justify-content: space-around;
+    margin-left: 10%; 
+    margin-right: 10%;
+}
+
+.title {
+    text-align:end;
+    padding-right: 192px;
+    margin-top: 0px;
+    color: antiquewhite;
+    height: 50px; 
 }
