@@ -13,7 +13,7 @@ Learned to meticulously go through source code and made the necessary changes to
 
 ## Screenshot of page
 
-![The-Horiseon-landing-page-including-a-header-with-nav-links,-main-sections-with-images,-aside-sections-with-images,-and-a-footer](./assets/01-html-css-git-homework-demo.png)
+![Page screenshot](./Assets/01-html-css-git-homework-demo.png)
 
 
 ## License
