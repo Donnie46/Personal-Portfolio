@@ -13,7 +13,7 @@ Learned to meticulously go through source code and made the necessary changes to
 
 ## Screenshot of page
 
-![Page screenshot](./Assets/01-html-css-git-homework-demo.png)
+![Page screenshot](./Assets/Images/Portfolio%20Screenshot.png)
 
 
 ## License
